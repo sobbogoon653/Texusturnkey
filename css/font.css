@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Qwigley-Regular';
+  src: url('Qwigley-Regular.eot');
+  src: url('Qwigley-Regular.woff') format('woff'),
+       url('Qwigley-Regular.svg#Qwigley-Regular') format('svg'),
+       url('Qwigley-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
